@@ -4,9 +4,8 @@
 
 ---
 
-## Структура репозитория
+## BonusHW
 
-### BonusHW
 Бонусное задание: Named Entity Recognition (NER) для русских новостей о Brexit.
 
 - Сравнение классических ML методов (sklearn) с LLM (DeepSeek)
@@ -26,4 +25,3 @@
 - scikit-learn
 - pandas, numpy
 - matplotlib, seaborn
-

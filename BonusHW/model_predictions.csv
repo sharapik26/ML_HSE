@@ -1,0 +1,64 @@
+﻿document_id,entity,gold_answer,LogisticRegression_prediction,GaussianNB_prediction,LinearSVC_prediction,RandomForest_prediction,DeepSeek_prediction
+ru-1,Тереза Мэй,PER,PER,PER,PER,PER,PER
+ru-1,Мэй,PER,PER,PER,PER,PER,PER
+ru-1,Консервативной партии,ORG,ORG,ORG,ORG,ORG,ORG
+ru-1,Великобритании,LOC,LOC,LOC,LOC,LOC,LOC
+ru-1,Борис Джонсон,PER,PER,PER,PER,PER,PER
+ru-1,Джонсон,PER,PER,PER,PER,PER,PER
+ru-1,Лондон,LOC,LOC,LOC,LOC,LOC,LOC
+ru-1,Мишель Барнье,PER,PER,PER,PER,PER,PER
+ru-1,Брюссель,LOC,LOC,LOC,LOC,LOC,LOC
+ru-1,Brexit,EVT,EVT,EVT,EVT,EVT,EVT
+ru-1,Брекзит,EVT,LOC,EVT,EVT,EVT,EVT
+ru-2,Британский парламент,ORG,ORG,ORG,ORG,ORG,ORG
+ru-2,Тереза Мэй,PER,PER,PER,PER,PER,PER
+ru-2,Палата общин,ORG,ORG,ORG,ORG,ORG,ORG
+ru-2,Европейского союза,ORG,ORG,ORG,ORG,ORG,ORG
+ru-2,Мэй,PER,PER,EVT,PER,PER,PER
+ru-2,Лейбористской партии,ORG,ORG,ORG,ORG,ORG,ORG
+ru-2,Джереми Корбин,PER,PER,PER,PER,PER,PER
+ru-2,Brexit,EVT,EVT,EVT,EVT,EVT,EVT
+ru-3,ЕС,ORG,PER,ORG,ORG,ORG,ORG
+ru-3,Европейский союз,ORG,ORG,ORG,ORG,ORG,ORG
+ru-3,Великобритании,LOC,LOC,LOC,LOC,LOC,LOC
+ru-3,The Guardian,ORG,ORG,ORG,ORG,ORG,ORG
+ru-3,Брюссель,LOC,LOC,LOC,LOC,LOC,LOC
+ru-3,Лондон,LOC,LOC,LOC,LOC,LOC,LOC
+ru-3,Brexit,EVT,EVT,EVT,EVT,EVT,EVT
+ru-4,Борис Джонсон,PER,PER,PER,PER,PER,PER
+ru-4,Великобритании,LOC,LOC,LOC,LOC,LOC,LOC
+ru-4,Джонсон,PER,PER,PER,PER,PER,PER
+ru-4,Тереза Мэй,PER,PER,PER,PER,PER,PER
+ru-4,Brexit,EVT,EVT,EVT,EVT,EVT,EVT
+ru-4,ЕС,ORG,EVT,ORG,ORG,ORG,ORG
+ru-4,Елизавета II,PER,PER,PER,PER,PER,PER
+ru-4,Мэй,PER,PER,PER,PER,PER,PER
+ru-5,Британия,LOC,LOC,LOC,LOC,LOC,LOC
+ru-5,Европейского союза,ORG,ORG,ORG,ORG,ORG,ORG
+ru-5,Великобритания,LOC,LOC,LOC,LOC,LOC,LOC
+ru-5,Brexit,EVT,EVT,EVT,EVT,EVT,EVT
+ru-5,Борис Джонсон,PER,PER,PER,PER,PER,PER
+ru-5,Лондон,LOC,LOC,LOC,LOC,LOC,LOC
+ru-6,Шотландия,LOC,LOC,LOC,LOC,LOC,LOC
+ru-6,Brexit,EVT,EVT,EVT,EVT,EVT,EVT
+ru-6,Никола Стерджен,PER,PER,PER,PER,PER,PER
+ru-6,Великобритании,LOC,LOC,LOC,LOC,LOC,LOC
+ru-6,Борис Джонсон,PER,PER,PER,PER,PER,PER
+ru-7,Великобритания,LOC,LOC,LOC,LOC,LOC,LOC
+ru-7,ЕС,ORG,EVT,ORG,ORG,ORG,ORG
+ru-7,Brexit,EVT,EVT,EVT,EVT,EVT,EVT
+ru-7,Европейский союз,ORG,ORG,ORG,ORG,ORG,ORG
+ru-7,Мишель Барнье,PER,PER,PER,PER,PER,PER
+ru-7,Дэвид Фрост,PER,PER,PER,PER,PER,PER
+ru-7,Брюссель,LOC,LOC,LOC,LOC,LOC,LOC
+ru-8,Северной Ирландией,LOC,LOC,LOC,LOC,LOC,LOC
+ru-8,Республикой Ирландия,LOC,LOC,LOC,LOC,LOC,LOC
+ru-8,Brexit,EVT,EVT,EVT,EVT,EVT,EVT
+ru-8,Северной Ирландии,LOC,LOC,LOC,LOC,LOC,LOC
+ru-8,Борис Джонсон,PER,PER,PER,PER,PER,PER
+ru-8,Демократическая юнионистская партия,ORG,ORG,ORG,ORG,ORG,ORG
+ru-9,Brexit,EVT,EVT,EVT,EVT,EVT,EVT
+ru-9,Великобритании,LOC,LOC,LOC,LOC,LOC,LOC
+ru-9,Банк Англии,ORG,ORG,ORG,ORG,ORG,ORG
+ru-9,Великобритании,LOC,LOC,LOC,LOC,LOC,LOC
+ru-9,Риши Сунак,PER,PER,ORG,PER,ORG,PER
